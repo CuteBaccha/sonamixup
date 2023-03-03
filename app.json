@@ -1,9 +1,9 @@
 {
-  "name": "VCPlayBot",
-  "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "sona_mixup",
+  "logo": "https://telegra.ph/file/491d40f7a9f2062cbac85.jpg",
+  "description": "💥ᴀɴsʜ sᴏᴏ ᴄᴜᴛᴇ ʙᴀᴄᴄʜᴀ ✨ʜ ᴜsᴋᴀ ᴍᴜsɪᴄ 💥⚡️ʀᴇᴘᴏ ʙʜɪ ᴄᴜᴛᴇ ʜᴀɪ ᴛᴏ ᴊᴀʟᴅɪ sᴇ ᴅᴇᴘʟᴏʏ 💥🔥ᴋʀʟᴏɴᴀ 🙈🎄.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/QueenArzoo/VCPlayBot",
+  "repository": "https://github.com/CuteBaccha/sona_mixup",
   "stack": "container",
   "buildpacks": [
    {
@@ -50,12 +50,12 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
+      "value": "https://telegra.ph/file/491d40f7a9f2062cbac85.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
       "required": false,
-      "value": "LaylaList"
+      "value": "XD_CUTETY"
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
