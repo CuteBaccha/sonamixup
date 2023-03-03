@@ -1,5 +1,16 @@
 # How To Host
-The easiest way to deploy this Bot
+☘️══════════════════❍⊱❁
+
+👉яσηє ѕє кιѕι кσ ρααуα ηαнι נααтα...,✨
+🌱кнσηє ѕє кιѕι кσ внυℓαуα ηαнι נααтα ,
+🫰куυкι....
+✨ωαqт тσ ѕαвнι кσ мιℓтα нαι...
+🔥zιη∂αgι вα∂αℓηє кє ℓιує. 
+💫мαgαя вιтα нυє ωαqт кσ....
+🍭кαвнι ℓαуα ηαнι נααтα.🥺
+
+           —sona_mixup🫶
+═══════════════════════
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
